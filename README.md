@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frosty1222
 - 👀 I’m interested in reactjs, vuejs,angularjs,laravel
-- 🌱 I’m currently learning laravel with vue 3
+- 🌱 I’m currently working with laravel
 - 💞️ I’m looking to collaborate on facebook https://www.facebook.com/anh.donglo.9/
 - 📫 How to reach me you can follow this link to go to my facebook profile https://www.facebook.com/anh.donglo.9/
 
